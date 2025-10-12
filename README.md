@@ -1,11 +1,11 @@
-<# 👋 Hi, I'm Sreeja
+## 👋 Hi, I'm Sreeja
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+Full+Stack+Developer;Backend+Enthusiast;API+Builder;Problem+Solver)](https://git.io/typing-svg)
 ---
 
-## ❓ What I Do
+# ❓ What I Do
 I love building scalable and efficient web applications — from crafting clean backend logic to designing smooth frontend interfaces.  
-I mainly focus on *Node.js, **Express, and **MongoDB, but I also enjoy experimenting with **React* and *modern APIs*.  
+I mainly focus on *Node.js*, *Express*, and *MongoDB*, but I also enjoy experimenting with *React* and *modern APIs*.  
 
 I’m passionate about clean architecture, performance optimization, and making complex things run beautifully fast ⚡
 
@@ -14,7 +14,7 @@ I’m passionate about clean architecture, performance optimization, and making 
 ---
 
 ## 🛠 Tech Stack & Tools
-### 💡 Backend
+# 💡 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -22,7 +22,7 @@ I’m passionate about clean architecture, performance optimization, and making 
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 
-### 🎨 Frontend
+# 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,8 +38,8 @@ I’m passionate about clean architecture, performance optimization, and making 
 ---
 
 ## 📊 GitHub Stats
-![Sreeja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreeja03&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeja03&layout=compact&theme=tokyonight)
+![Sreeja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreeja7748&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeja7748&layout=compact&theme=tokyonight)
 
 ---
 
@@ -51,18 +51,4 @@ I’m passionate about clean architecture, performance optimization, and making 
 ## ☁ Fun Fact
 I can turn caffeine into APIs and ideas into scalable systems ☕💻  
 
----
 
-**sreeja7748/Sreeja7748** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
