@@ -38,13 +38,12 @@ I’m passionate about clean architecture, performance optimization, and making 
 ---
 
 ## 📊 GitHub Stats
-![Sreeja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreeja7748&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeja7748&layout=compact&theme=tokyonight)
+![Sreeja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sreeja7748&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreeja7748&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ## 🔥 Current Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sreeja03&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sreeja7748&theme=tokyonight)
 
 ---
 
