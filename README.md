@@ -36,11 +36,11 @@ I’m passionate about clean architecture, performance optimization, and making 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
 ## 📊 GitHub Stats
-![Sreeja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sreeja7748&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreeja7748&layout=compact&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreeja7748&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeja7748&layout=compact&theme=tokyonight)
 
 ## 🔥 Current Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sreeja7748&theme=tokyonight)
