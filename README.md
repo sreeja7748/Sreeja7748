@@ -2,7 +2,6 @@
 <!-- Typing animation -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Enthusiast;API+Builder;Problem+Solver)](https://git.io/typing-svg)
 ---
-
 # ❓ What I Do
 I love building scalable and efficient web applications — from crafting clean backend logic to designing smooth frontend interfaces.  
 I mainly focus on *Node.js*, *Express*, and *MongoDB*, but I also enjoy experimenting with *React* and *modern APIs*.  
