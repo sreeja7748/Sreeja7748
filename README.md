@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Sreeja!
-<!-- Typing animation -->
+<!-- Typing animation -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Enthusiast;API+Builder;Problem+Solver)](https://git.io/typing-svg)
 ---
 
