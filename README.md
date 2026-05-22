@@ -40,7 +40,7 @@ I’m passionate about clean architecture, performance optimization, and making 
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sreeja7748&show_icons=true&theme=tokyonight)
 
 ## 🔥 Current Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sreeja7748&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sreeja7748&theme=tokyonight)
 
 ---
 
