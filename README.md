@@ -4,7 +4,7 @@
 ---
 # ❓ What I Do
 I love building scalable and efficient web applications — from crafting clean backend logic to designing smooth frontend interfaces.  
-I mainly focus on *Node.js*, *Express*, and *MongoDB*, but I also enjoy experimenting with *React* and *modern APIs*.  
+I mainly focus on *Node.js*, *Express*, and *MongoDB*, but I also enjoy experimenting with *React* and *modern APIs*.
 
 I’m passionate about clean architecture, performance optimization, and making complex things run beautifully fast⚡
 
